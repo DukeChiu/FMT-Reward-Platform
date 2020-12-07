@@ -1,0 +1,8 @@
+redis==2.10.6
+Flask_SQLAlchemy==2.3.2
+SQLAlchemy==1.2.10
+requests==2.18.4
+rsa==3.4.2
+Flask==1.0.1
+Flask_Cors==3.0.7
+Pillow==6.1.0
